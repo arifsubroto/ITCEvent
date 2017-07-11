@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975703471556",
+    "firebase_url": "https://itc-event.firebaseio.com",
+    "project_id": "itc-event",
+    "storage_bucket": "itc-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975703471556:android:aaba718069faa14d",
+        "android_client_info": {
+          "package_name": "com.arifsubroto.itcevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975703471556-et4ssk0btgnjsig1nff3ueckpehi82d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-vO7xxQyTo2RMavv3b181TZr8DVCfJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

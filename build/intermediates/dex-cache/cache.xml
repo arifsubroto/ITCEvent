@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_1b77336102e948f44f983168928bb7fa37e8c3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_73e87c348c9bab09a1d6ac82f0edafa064ea0abc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_a8179d7a41b80235e9df709fdf412c017b4cc02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_36cc7957766901725a5121aacc87532af8b3a749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_42cfd49b3ef17ad1d621d64f39d03915b92c04a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_2c9d00f584c0b061ed6d1f1c04b6868a460fa5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_ad91064968b2d2ae7f52469aa050c90ca0cbc8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_3fc99d80ad93ad7df193c0cfdd5929742d818053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_887e02e25d35a57678429d25014dce02d92ee317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_a79e9366f146cb3aea06f41a795b7fb5974816ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b628dfff9a3a3cb31117a16633698532e0129bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_e609acc6a6879394f3171b41b7c0b97d4df931fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_da14e17853b6d3c58adb6e109e3026d92267f821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ec72062ecb1470f697a241d83d80e1110113e8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_9396a16ea6eb2ba4602354bb280d68f8198f7bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_1f718a85fee406b3a9b10e383cff82662c9095d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="D:\DevelopAndroid\AndroidStudioProject\ITCEvent\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_8ca780e6d9702d6ab7f7fca97ed7a40db1c7f0f9.jar" />
+    </item>
+
+</items>
